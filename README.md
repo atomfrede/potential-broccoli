@@ -1,5 +1,5 @@
 # potential-broccoli
-A sample repository for the git workshop on June 7th at University Paderborn.
+A sample repository for the git workshop on June 8th at University Paderborn.
 
 ## Speakers
 
