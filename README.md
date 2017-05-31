@@ -7,7 +7,7 @@ A sample repository for the git workshop on June 7th at University Paderborn.
 
 ## Participants
 
-| Name          | Vote           | Remarks  |
-| ------------- |:-------------: | :-----  |
-| John Doe      | +/o/-          | Some words about what you liked, what not... |
+| Name          |Major           | Vote           | Remarks  |
+| ------------- |----------------|:-------------: | :-----   |
+| John Doe      |Computer Science| +/o/-          | Some words about what you liked, what not... |
 
