@@ -1,6 +1,8 @@
 # Git Workshop
 A sample repository for the Git workshop on June 7th at University Paderborn.
 
+Wohooooo this is mine now
+
 ## Speakers
 
 * Frederik Hahne
